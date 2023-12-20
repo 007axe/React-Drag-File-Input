@@ -1,3 +1,3 @@
 npm install
 
-nmp run dev
+npm run dev
